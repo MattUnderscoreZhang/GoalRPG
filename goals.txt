@@ -1,0 +1,6 @@
+practice data analysis with DeepNote to prep for a quant interview involving live coding and analysis of a dataset
+read 5 notebooks
+try out analysis on pizza dataset
+perform BDT training
+perform classification training
+ask GPT for 5 tasks and perform each of them
