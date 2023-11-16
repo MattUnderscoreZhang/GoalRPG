@@ -161,4 +161,4 @@ cython_debug/
 .pdm-python
 
 # my stuff
-goals.txt
+goals.json
